@@ -31,5 +31,3 @@ https://www.kaggle.com/datasets/datasciencedonut/olympic-swimming-1912-to-2020
     - Data Cleaning
     - Trend Visualization
     - Regression Analysis
-
-## Example Visualization
